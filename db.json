@@ -14,7 +14,9 @@
           "https://t.ctcdn.com.br/TTK4snJlPOGKuXIB29QtvxjaT0U=/1200x675/smart/i635860.jpeg",
           "https://s2-autoesporte.glbimg.com/ZU8JYXo4qpzgP0zxrzY7VUkx9Bs=/0x0:5000x3547/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/1/5/1bt31aS0AZbmStrGk3zQ/corolla-gli-2019.jpg"
         ],
-        "data_cadastro": "2024-03-31T10:00:00Z"
+        "data_cadastro": "2024-03-31T10:00:00Z",
+        "description": "O Toyota Corolla é um dos carros mais populares do Brasil, conhecido por sua confiabilidade, conforto e baixo custo de manutenção."
+
       },
       {
         "id": 2,
@@ -30,7 +32,9 @@
           "https://cdn.motor1.com/images/mgl/YAAopq/s3/volkswagen-gol-1.0-2023.jpg",
           "https://fotos.perfil.com/2023/02/13/volkswagen-gol-1508369.jpg"
         ],
-        "data_cadastro": "2024-03-30T14:30:00Z"
+        "data_cadastro": "2024-03-30T14:30:00Z",
+        "description": "O Volkswagen Gol é um dos carros mais vendidos da história do Brasil, conhecido por sua robustez e versatilidade."
+
       },
       {
         "id": 3,
@@ -46,7 +50,9 @@
           "https://s2-autoesporte.glbimg.com/8AsyIQCc2_sNbOsJXNUPQI87qYw=/0x0:1920x1080/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2022/U/M/0AQABNTsW6kmItO0mGaQ/sem-titulo.jpg",
           "https://www.karvi.com.br/_next/image/?url=https%3A%2F%2Fdjdnloyvqzzd3.cloudfront.net%2Fstatic%2Fgallery%2Fbr%2Fdesktop%2Fhonda_civic_2021_perfil_frente.jpg&w=1440&q=90"
         ],
-        "data_cadastro": "2024-03-29T09:45:00Z"
+        "data_cadastro": "2024-03-29T09:45:00Z",
+        "description": "O Volkswagen Gol é um dos carros mais vendidos da história do Brasil, conhecido por sua robustez e versatilidade."
+
       },
       {
         "id": 4,
@@ -62,7 +68,9 @@
           "https://www.chevrolet.com.br/content/dam/chevrolet/mercosur/brazil/portuguese/index/cars/2023-onix/mov/04-images/onix-ltz-mt.jpg?imwidth=960",
           "https://revistacarro.com.br/wp-content/uploads/2019/11/Chevrolet-Onix-Plus.jpg"
         ],
-        "data_cadastro": "2024-03-28T11:20:00Z"
+        "data_cadastro": "2024-03-28T11:20:00Z",
+        "description": "O Chevrolet Onix é um dos carros mais vendidos do Brasil, conhecido por seu design moderno, economia de combustível e tecnologia embarcada."
+
       },
       {
         "id": 5,
@@ -78,7 +86,9 @@
           "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ford_Fiesta_ST-Line_%28VII%2C_Facelift%29_%E2%80%93_f_30012023.jpg",
           "https://media.ford.com/content/fordmedia/feu/en/news/2016/11/30/next-generation-ford-fiesta--worlds-most-technologically-advance/jcr:content/image.img.881.495.jpg/1500239857015.jpg"
         ],
-        "data_cadastro": "2024-03-27T15:15:00Z"
+        "data_cadastro": "2024-03-27T15:15:00Z",
+        "description": "O Ford Fiesta é um compacto versátil e econômico, ideal para uso urbano e viagens curtas, conhecido por seu baixo consumo de combustível e dirigibilidade ágil."
+
       },
       {
         "id": 6,
@@ -94,7 +104,9 @@
           "https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2022/10/07113341/stepway10_001-1160x653.jpg",
           "https://cdn.group.renault.com/ren/br/renault-new-cars/product-plans/2023/stepway/julho/Resize_pagina_404_2560x1440_Stepway_im2.jpg.ximg.small.jpg/5299a44674.jpg"
         ],
-        "data_cadastro": "2024-03-26T13:10:00Z"
+        "data_cadastro": "2024-03-26T13:10:00Z",
+        "description": "O Renault Sandero é um hatch compacto, conhecido por seu espaço interno generoso e robustez, ideal para famílias."
+
       },
       {
         "id": 7,
@@ -110,7 +122,9 @@
           "https://cdn.motor1.com/images/mgl/2NO4RB/s1/visual-do-fiat-uno-ciao-traz-detalhes-na-lateral.webp",
           "https://s2-autoesporte.glbimg.com/7QsD8eYB517mrkj2HIhARSHntcM=/0x0:707x402/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/B/7/NTyPQHSkSxa78crlBzZg/img-design-externo.png"
         ],
-        "data_cadastro": "2024-03-25T12:05:00Z"
+        "data_cadastro": "2024-03-25T12:05:00Z",
+        "description": "O Fiat Uno é um compacto econômico e prático, conhecido por seu baixo custo de manutenção e agilidade no trânsito urbano."
+
       },
       {
         "id": 8,
@@ -126,7 +140,9 @@
           "https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2022/08/05132152/NOVO-HB20-2-scaled.jpg",
           "https://quatrorodas.abril.com.br/wp-content/uploads/2022/02/Hyundai-HB20-2023-1.jpg?quality=70&strip=info&w=720&h=440&crop=1"
         ],
-        "data_cadastro": "2024-03-24T08:45:00Z"
+        "data_cadastro": "2024-03-24T08:45:00Z",
+        "description": "O Hyundai HB20 é um compacto moderno e tecnológico, conhecido por seu design arrojado e conforto superior."
+
       },
       {
         "id": 9,
@@ -142,7 +158,9 @@
           "https://www.autoo.com.br/fotos/2023/6/1280_960/jeep_renegade_2024_1_20062023_74933_1280_960.jpg",
           "https://garagem360.com.br/wp-content/uploads/2023/07/Jeep-Renegade-Longitude-2024-3.jpg"
         ],
-        "data_cadastro": "2024-03-23T07:30:00Z"
+        "data_cadastro": "2024-03-23T07:30:00Z",
+        "description": "O Jeep Renegade é um SUV robusto e versátil, conhecido por sua capacidade off-road e conforto em estradas urbanas."
+
       },
       {
         "id": 10,
@@ -158,7 +176,9 @@
           "https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2022/10/31123549/BMW-Serie-3-2023-1.jpeg",
           "https://t.ctcdn.com.br/JpwI-wSkeBnGovaChLohxUmS__Q=/1200x675/smart/i777106.jpeg"
         ],
-        "data_cadastro": "2024-03-22T06:20:00Z"
+        "data_cadastro": "2024-03-22T06:20:00Z",
+        "description": "O BMW 320i é um sedã de luxo, conhecido por seu desempenho excepcional e acabamento premium."
+
       }
     ]
   }
