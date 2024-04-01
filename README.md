@@ -26,3 +26,10 @@ npm install
 npm run dev
 
 ```
+
+Em outro terminal entre na pasta ecomerce e rode o seguinte comando para o json-server
+
+```
+json-server --watch db.json --port 3000
+
+```
