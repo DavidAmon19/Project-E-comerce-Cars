@@ -1,4 +1,3 @@
-// CarCard.jsx
 import React, { useState, useEffect } from "react";
 import Button from "@mui/material/Button";
 import { styled } from "@mui/material/styles";
@@ -18,7 +17,7 @@ import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
 import axios from "axios";
 import { DivCard, DivContent } from "./style";
-import CarModal from "../CarModal"; // Importe o componente CarModal
+import CarModal from "../CarModal";
 
 const ExpandMore = styled((props) => {
   const { expand, ...other } = props;
@@ -34,7 +33,9 @@ const ExpandMore = styled((props) => {
 export default function CarCard() {
   const [expanded, setExpanded] = useState(false);
   const [openModal, setOpenModal] = useState(false);
-  const [carros, setCarros] = React.useState([]);
+  const [carros, setCarros] = useState([]);
+  const [selectedCar, setSelectedCar] = useState(null);
+
   useEffect(() => {
     const buscarCarros = () => {
       axios
@@ -49,7 +50,8 @@ export default function CarCard() {
     setExpanded(!expanded);
   };
 
-  const handleClickOpenModal = () => {
+  const handleClickOpenModal = (carro) => {
+    setSelectedCar(carro);
     setOpenModal(true);
   };
 
@@ -97,13 +99,11 @@ export default function CarCard() {
                 <ShareIcon />
               </IconButton>
               <DivCard>
-                <span
-                  
-                >{` R$ ${carro.preco}`}</span>
+                <span>{` R$ ${carro.preco}`}</span>
 
                 <Button
                   variant="contained"
-                  onClick={handleClickOpenModal}
+                  onClick={() => handleClickOpenModal(carro)}
                   color="primary"
                 >
                   Mais
@@ -119,8 +119,7 @@ export default function CarCard() {
           </Card>
         ))}
       </DivContent>
-      {/* Renderiza o modal e passa as funções para controlá-lo */}
-      <CarModal open={openModal} handleClose={handleCloseModal} />
+      <CarModal open={openModal} handleClose={handleCloseModal} selectedCar={selectedCar} />
     </>
   );
 }
