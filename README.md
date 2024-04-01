@@ -1,8 +1,28 @@
-# React + Vite
+<h1 align="center">:file_cabinet: E-comerce Project Car</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## :memo: Descrição
+O projeto consiste em uma loja online para venda de carros.
+## :books: Funcionalidades
+* <b>Admin</b>: Tela de administrador para buscar carros , selecionar, editar, inserir e excluir
+* <b>Ofertas</b>: Tela com ofertas e informações dos carros
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## :wrench: Tecnologias utilizadas
+* React;
+* Styled-components;
+* Material-UI;
+* json-server;
+* React-router-dom;
+
+## :rocket: Rodando o projeto
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+```
+git clone https://github.com/DavidAmon19/Project-E-comerce-Cars.git
+
+cd ecomerce
+
+npm install
+
+npm run dev
+
+```
